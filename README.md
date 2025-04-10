@@ -1,4 +1,4 @@
-# Python
+# Descubra o número
 import random
 
 aleatorio = random.randint(0, 7)

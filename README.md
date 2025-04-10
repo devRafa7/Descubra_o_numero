@@ -1,4 +1,4 @@
-# Descubra o número
+# MINIGAME: Chute um número que a máquina vai escolher
 import random
 
 aleatorio = random.randint(0, 7)
